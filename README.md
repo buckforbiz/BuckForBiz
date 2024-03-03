@@ -17,7 +17,7 @@ We've got a dream, and you're a big part of it. We're collecting $1 donations to
 
 Just $1 can make a difference. Here's how you can send it:
 
-- **PayPal**: [Donate here](paypal.me/buckforbiz)
+- **PayPal**: [Donate here](https://paypal.me/buckforbiz)
 
 - **Crypto**: If you prefer crypto you can sent to these addresses:
 
