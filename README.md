@@ -4,7 +4,7 @@ Hey there! We're two friends with a big goal: to start our own business. But we 
 
 ## Our Dream ✨
 
-We've got a dream, and you're a big part of it. We're collecting $1 donations to kick things off. And we want you to decide the business! Check out our [pinned post](linktopost.instagram) on Instagram, and drop your business idea there. The idea with the most likes is the one we'll work on making a reality.
+We've got a dream, and you're a big part of it. We're collecting $1 donations to kick things off. And we want you to decide the business! Check out our [pinned post](https://www.instagram.com/reel/C4D7Yu6iz8f/?igsh=dWttaXc0YmhvYjBm) on Instagram, and drop your business idea there. The idea with the most likes is the one we'll work on making a reality.
 
 ### How to Help 🤝
 
