@@ -19,14 +19,22 @@ Just $1 can make a difference. Here's how you can send it:
 
 - **PayPal**: [Donate here](https://paypal.me/buckforbiz)
 
-- **Crypto**: If you prefer crypto you can sent to these addresses:
+- **Crypto**: If you prefer crypto you can send it to these addresses:
 
-  - **Bitcoin (BTC)**: `1BooK1ForBiZxxxxxxxxxxxxx`
-  - **Ethereum (ETH)**: `0xBooKForBiZxxxxxxxxxxxxxxxx`
-  - **Binance Smart Chain (BNB)**: `LBooKForBiZxxxxxxxxxxxxxxx`
-  - **Ripple (XRP)**: `34rwdfadfaff` Memo: `129xxx23`
+  - **Bitcoin (BTC)**:
+    - ```bc1q2740dayvrljkwu9rd3ecqnwje42pr27vlm2e3v```
+  - **Ethereum Network (ERC20)**:
+    - ```0x9F15B70e5F46DfFB4409aAaD062a31919e4366F0```
+  - **Cardano (ADA)**:
+    - ```addr1q8rqsph40fh99rvdgc0r3gte9thkjfusu9h9xurrzlvz8zvjz25paetcunfvu92u3pzxuzvuesz0g5dgrnqz3jq9dxlqf6065l```
+  - **Binance Smart Chain Network (BEP20)**:
+    - ```0x9F15B70e5F46DfFB4409aAaD062a31919e4366F0```
+  - **Tron Network (TRC20)**:
+    - ```TTga9dmMbXig25Gja6ywMNHXWVpjVk3bEb```
+  - **Solana (SOL)**:
+    - ```6CBdeMbMKDruQzj6jACr5qDBpmgAFA6pBdrMBeZCqNi```
 
-Please make sure the address is right before you send your $1.
+Please make sure the address is right before you send your crypto. If you want another address added here request it sending us a message please!
 
 ## Be Part of This 🌐
 
