@@ -19,6 +19,8 @@ Just $1 can make a difference. Here's how you can send it:
 
 - **PayPal**: [Donate here](https://paypal.me/buckforbiz)
 
+- **Buymeacoffee**: [Donate here](https://www.buymeacoffee.com/buckforbiz)
+
 - **Crypto**: If you prefer crypto you can send it to these addresses:
 
   - **Bitcoin (BTC)**:
